@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Klauser5. I'm a fourth year university student studying a degree in computer science in Australia.
 - 👀 I’m interested in web development, desktop development, and mobile development.
 - 🌱 I’m currently learning Swift, TypeScript, Node.js, React, MongoDB and PostgreSQL.
-- 💞️ I’m looking to collaborate on nothing for now, but that could change.
+- 💞️ I’m looking to collaborate on MERN stack projects.
 - 📫 Contact me at 13244177@student.uts.edu.au
 
 <!---
