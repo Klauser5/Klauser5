@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mattclifford2000. I'm a fourth year university student studying a degree in computer science in Australia.
-- 👀 I’m interested in web development, desktop development, and mobile development.
-- 🌱 I’m currently learning Swift, TypeScript, Node.js, React, MongoDB and PostgreSQL.
-- 💞️ I’m looking to collaborate on MERN stack projects.
-- 📫 Contact me at 13244177@student.uts.edu.au or mattclifford2000@icloud.com
+- 👋 Hi, I’m @mattclifford2000. I'm a web developer operating out of Sydney, Australia.
+- 👀 I’m primarily interested in web development.
+- 🌱 I work with Angular, .NET, and SQL Server
+- 💞️ I also have experience with React, Node.js, MongoDB, and MySQL.
+- 📫 Contact me at mattclifford2000@outlook.com.au
 
 <!---
 Klauser5/Klauser5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
